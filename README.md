@@ -24,10 +24,10 @@ The dataset used for training and testing the model is available in [data.csv](d
     ```
     pip install scikit-learn pandas numpy matplotlib seaborn
     ```
-3. Open and run the [diabetes_diagnosis.ipynb](diabetes_diagnosis.ipynb) notebook to explore the data, train the model, and evaluate its performance.
+3. Open and run the notebook to explore the data, train the model, and evaluate its performance.
 
 ## Usage
-1. Open the [diabetes_diagnosis.ipynb](diabetes_diagnosis.ipynb) notebook in Jupyter Notebook.
+1. Open the notebook in Jupyter Notebook.
 2. Follow the instructions in the notebook to:
     - Load and explore the dataset.
     - Preprocess the data (handle missing values, scale features, etc.).
